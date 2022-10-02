@@ -12,6 +12,6 @@ pipeline {
                 sh 'python --version'
                 sh 'python start.py'
             }
-
+        }
     }
 }
